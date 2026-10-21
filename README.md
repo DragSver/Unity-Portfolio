@@ -30,7 +30,6 @@
 ## Коммерческие проекты
 _Компания «Диджитех». Образовательные и производственные симуляторы на Unity для PC и VR._
 
-
 <table>
   <tr>
     <td width="220" valign="top">
@@ -43,7 +42,11 @@ _Компания «Диджитех». Образовательные и про
     <td valign="top">
       <h3>VR Chemistry Laboratory</h3>
       <p>
-        <strong>Unity · C# · XR Interaction Toolkit · Physics · UI</strong>
+        <code>Unity</code>
+        <code>C#</code>
+        <code>XR Interaction Toolkit</code>
+        <code>Physics</code>
+        <code>UI</code></strong>
       </p>
       <p>
         Разработка систем переливания и смешивания веществ,
@@ -64,11 +67,12 @@ _Компания «Диджитех». Образовательные и про
         alt="Industrial & Engineering Simulators"
         width="200"
       >
-    </td>
-    <td valign="top">
-      <h3>Industrial & Engineering Simulators</h3>
+    </td><td valign="top"><h3>Industrial & Engineering Simulators</h3>
       <p>
-        <strong>Unity · C# · XR Interaction Toolkit · Timeline</strong>
+        <code>Unity</code>
+        <code>C#</code>
+        <code>XR Interaction Toolkit</code>
+        <code>Timeline</code>
       </p>
       <p>
         Разработка интерактивных сценариев сборки и разборки
@@ -95,7 +99,10 @@ _Компания «Диджитех». Образовательные и про
     <td valign="top">
       <h3>Construction Simulators</h3>
       <p>
-        <strong>Unity · C# · XR Interaction Toolkit · Physics</strong>
+        <code>Unity</code>
+        <code>C#</code>
+        <code>XR Interaction Toolkit</code>
+        <code>Physics</code>
       </p>
       <p>
         Строительные инструменты, поверхности, 
@@ -103,28 +110,104 @@ _Компания «Диджитех». Образовательные и про
       </p>
       <p>
   <strong>Проекты:</strong>
-  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/otdelochnye-raboty/programmnyy-kompleks-tekhnologiya-oblitsovki-keramicheskoy-plitkoy/?utm_source=chatgpt.com">Плитка</a>
+  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/otdelochnye-raboty/programmnyy-kompleks-tekhnologiya-oblitsovki-keramicheskoy-plitkoy/">Плитка</a>
   ·
-  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/otdelochnye-raboty/programmnyy-kompleks-malyarnye-i-dekorativnye-raboty/?utm_source=chatgpt.com">Маляр</a>
+  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/otdelochnye-raboty/programmnyy-kompleks-malyarnye-i-dekorativnye-raboty/">Маляр</a>
   ·
-  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/tekhnologiya-stroitelnogo-proizvodstva/virtualnyy-kompleks-s-sistemoy-virtualnoy-realnosti-montazh-zhelezobetonnykh-konstruktsiy-97-serii/?utm_source=chatgpt.com">ЖБК</a>
+  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/tekhnologiya-stroitelnogo-proizvodstva/virtualnyy-kompleks-s-sistemoy-virtualnoy-realnosti-montazh-zhelezobetonnykh-konstruktsiy-97-serii/">ЖБК</a>
   ·
-  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/sistemy-zhkkh/virtualnyy-kompleks-obsluzhivanie-i-ekspluatatsiya-mnogokvartirnogo-zhilogo-doma/?utm_source=chatgpt.com">Обслуживание МКД</a>
+  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/sistemy-zhkkh/virtualnyy-kompleks-obsluzhivanie-i-ekspluatatsiya-mnogokvartirnogo-zhilogo-doma/">Обслуживание МКД</a>
   ·
-  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/tekhnologiya-stroitelnogo-proizvodstva/programmnyy-kompleks-opalubochnye-i-armaturnye-raboty/?utm_source=chatgpt.com">Опалубка</a>
+  <a href="https://digi-tech.dev/catalog/stroitelnye-tekhnologii/tekhnologiya-stroitelnogo-proizvodstva/programmnyy-kompleks-opalubochnye-i-armaturnye-raboty/">Опалубка</a>
 </p>
     </td>
   </tr>
 </table>
 
-## 🔥 Играбельные проекты
+## Игровые проекты
 
-### [Колоброд](https://yandex.com/games/app/430135?draft=true&lang=ru)
-**Жанр:** RPG кликер   
-**Описание:** Небольшая игра, вдохновленная русскими сказками и славянской тематикой    
-**Подробнее о проекте:** Игра, разрабатываемая в рамках курса, куда я пошла, чтобы заставить себя работать над пет проектами.  
-**Код:** [GitHub-репозиторий](https://github.com/DragSver/ClickerBattler)  
-**Подробнее:** [О проекте](https://github.com/DragSver/Unity-Portfolio/blob/main/Pet-Projects/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B1%D1%80%D0%BE%D0%B4.md)
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img
+        src="media/kolobrod_4.png"
+        alt="Kolobrod"
+        width="200"
+      >
+    </td>
+    <td valign="top">
+      <h3>Колоброд - RPG Clicker</h3>
+      <p>
+        <code>Unity</code>
+        <code>C#</code>
+        <code>Zenject</code>
+        <code>uGUI</code>
+        <code>WebGL</code>
+      </p>
+      <p>
+        Самостоятельно разработанная RPG-игра по мотивам русских сказок. Боевая система со стихийными атаками, боссы, развитие навыков, карта уровней и балансировка прогрессии.
+      </p>
+      <a href="https://dawr.itch.io/kolobrod">
+        Играть (itch.io) ↗
+      </a>
+        · 
+      <a href="https://github.com/DragSver/ClickerBattler">
+        Исходный код ↗
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top">
+      <img
+        src="media/cards.png"
+        alt="Card Roguelike"
+        width="200"
+      >
+    </td>
+    <td valign="top">
+      <h3>Card Roguelike</h3>
+      <p>
+        <code>Unity</code>
+        <code>C#</code>
+      </p>
+      <p>
+        Прототип карточного roguelike с пошаговыми сражениями.
+      </p>
+      <a href="https://github.com/DragSver/Roguelike">
+        Исходный код ↗
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top">
+      <img
+        src="media/eggs.png"
+        alt="Wolf & Eggs"
+        width="200"
+      >
+    </td>
+    <td valign="top">
+      <h3>Wolf & Eggs</h3>
+      <p>
+        <code>Unity</code>
+        <code>C#</code>
+        <code>ECS</code>
+      </p>
+      <p>
+        Аркадная мини-игра с механикой ловли падающих объектов. Реализация основной механики, ECS-систем и визуальных эффектов.
+      </p>
+      <a href="https://github.com/DragSver/MiniGames">
+        Исходный код ↗
+      </a>
+    </td>
+  </tr>
+</table>
 
+## Медиа и демонстрации
+
+Скриншоты, видеозаписи игровых механик,
+VR-взаимодействий и технические презентации.
+
+📁 [Медиатека проектов (Google Drive)](https://drive.google.com/drive/folders/18xOro6ZkZVwHz57OzOG_rPrQKp_pgTDy)
 
 📬 **Связаться со мной:** [GitHub](https://github.com/DragSver) | [Telegram](https://t.me/seemtobewell)
