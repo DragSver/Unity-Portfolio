@@ -27,6 +27,7 @@
   <code>WebGL</code>
 </p>
 
+
 ## Коммерческие проекты
 _Компания «Диджитех». Образовательные и производственные симуляторы на Unity для PC и VR._
 
@@ -124,6 +125,7 @@ _Компания «Диджитех». Образовательные и про
   </tr>
 </table>
 
+
 ## Игровые проекты
 
 <table>
@@ -203,6 +205,7 @@ _Компания «Диджитех». Образовательные и про
   </tr>
 </table>
 
+
 ## Медиа и демонстрации
 
 Скриншоты, видеозаписи игровых механик,
@@ -210,4 +213,7 @@ VR-взаимодействий и технические презентации
 
 📁 [Медиатека проектов (Google Drive)](https://drive.google.com/drive/folders/18xOro6ZkZVwHz57OzOG_rPrQKp_pgTDy)
 
-📬 **Связаться со мной:** [GitHub](https://github.com/DragSver) | [Telegram](https://t.me/seemtobewell)
+
+## Контакты
+
+**Связаться со мной:** [GitHub](https://github.com/DragSver) · [Telegram](https://t.me/seemtobewell)
